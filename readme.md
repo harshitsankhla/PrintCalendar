@@ -12,8 +12,7 @@ Structure:
     4. day_of_week()     : returns the day of the week of the given date, epoch was a Thursday
     5. display_month()   : prints the calendat
     
-  main.c - driver program
+  main.c - driver program 
   
-  
-  * You can use the 'run' file to directly test the program
+  * You can use the 'run' (binary executable) file to directly test the program
   * calendar.a is the library that can be statically linked to your own program
